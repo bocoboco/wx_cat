@@ -9,23 +9,23 @@
     "color": "#7A7E83",
     "selectedColor": "#3cc51f",
     "borderStyle": "black",
-    "backgroundColor": "#ffffff",
+    "backgroundColor": "#ffffff", 
     "list": [
       {
         "pagePath": "pages/index/index",
-        "iconPath": "image/icon_component.png",
-        "selectedIconPath": "image/icon_component_HL.png",
+        "iconPath": "image/activity.jpg",
+        "selectedIconPath": "image/activity_fill.jpg",
         "text": "看看吃啥"
       },{
         "pagePath": "pages/selectFood/index",
-        "iconPath": "image/icon_component.png",
-        "selectedIconPath": "image/icon_component_HL.png",
+        "iconPath": "image/barrage_fill.jpg",
+        "selectedIconPath": "image/barrage.jpg",
         "text": "去吃啥"
       },
       {
         "pagePath": "pages/eatFood/index",
-        "iconPath": "image/icon_API.png",
-        "selectedIconPath": "image/icon_API_HL.png",
+        "iconPath": "image/address_fill.jpg",
+        "selectedIconPath": "image/address.jpg",
         "text": "走，去吃"
       }
     ]

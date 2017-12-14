@@ -13,12 +13,48 @@
                     </swiper-item>
                   </block>
                 </swiper>
-                       
         </view>
         
-        <view class="flex-item flex-item-V demo-text-2"></view>
+        <view class="flex-item flex-item-V demo-text-2">
+              <view class = "textTitle">无与伦比的猫</view>
+              <view class = "textSecTitle">休闲娱乐 - 看看吃吃</view>
+              <view class ="dts"></view>
+              <view>
+                   <view class ="iconContext">1.</view>
+                   <view class ="textContext">吃吃喝喝，玩玩乐乐</view>
+              </view>
+              
+               <view>
+                   <view class ="iconContext">2.</view>
+                   <view class ="textContext">有吃的，有喝的</view>
+              </view>
+               <view>
+                   <view class ="iconContext">3.</view>
+                   <view class ="textContext">我想看看是什么样子的</view>
+              </view>
+              
+        </view>
         <view class="defaltWhite"></view>
-        <view class="flex-item flex-item-V demo-text-3"></view>
+            <view class="flex-item flex-item-V demo-text-3">
+                <view class="flex-item flex-item-V demo-text-2">
+                 
+                  <view>
+                      <view class ="iconContext">1.</view>
+                      <view class ="textContext">远光软件园</view>
+                  </view>
+                  
+                  <view>
+                      <view class ="iconContext">2.</view>
+                      <view class ="textContext">10:00 - 02:00</view>
+                  </view>
+                  <view>
+                      <view class ="iconContext">3.</view>
+                      <view class ="textContext">13XXXXXXXXX</view>
+                  </view>
+                  
+            </view> 
+        
+        </view>
       </view>
     </view>
   </view>
