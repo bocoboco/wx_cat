@@ -1,0 +1,27 @@
+<view class="container">
+  
+  <view class="page-body">
+    <view class="page-section">
+      <view class="flex-wrp" style="flex-direction:column;">
+        <view class="flex-item flex-item-V scroll_mater">
+             
+                <swiper class="swiper_height" indicator-dots="{{indicatorDots}}"  
+                  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+                  <block wx:for="{{background}}" wx:key="*this">
+                    <swiper-item>
+                      <view class="swiper-item {{item}}"></view>
+                    </swiper-item>
+                  </block>
+                </swiper>
+                       
+        </view>
+        
+        <view class="flex-item flex-item-V demo-text-2"></view>
+        <view class="defaltWhite"></view>
+        <view class="flex-item flex-item-V demo-text-3"></view>
+      </view>
+    </view>
+  </view>
+
+
+</view>
